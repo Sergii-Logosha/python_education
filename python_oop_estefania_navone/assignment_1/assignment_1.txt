@@ -1,0 +1,3 @@
+Bank: Deposit, Loan, Debt
+Donut Shop: Donut, Cream, Beverage
+Videogame Store: VideoGame, Film, Cachier
